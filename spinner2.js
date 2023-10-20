@@ -1,4 +1,4 @@
-const spinnerArray = ['\r|', '\r/', '\r-', '\r\\', '\r|', '\r/', '\r-', '\r\\'];
+const spinnerArray = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   '];
 
 let delay = 0;
 for (const char of spinnerArray) {
